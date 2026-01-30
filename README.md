@@ -1,10 +1,8 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/DavronbekBuxdu123/DavronbekBuxdu123/main/banner.png" alt="Profile Banner" width="100%" />
 </div>
-
 <div align="center">
-
-# Hi 👋, I'm Davronbek
+# Hi, I'm Davronbek
 
 ### Frontend Developer from Bukhara 🇺🇿
 
@@ -15,20 +13,7 @@
 Frontend Developer specializing in **Next.js, React, and Tailwind CSS**.  
 I enjoy building **fast, clean, and user-friendly interfaces** with modern web technologies.
 
-## 📚 Learning & Knowledge
-
-- HTML, CSS, JavaScript fundamentals  
-- React & Next.js for modern frontend development  
-- Tailwind CSS for clean and responsive UI  
-- Improving performance, SEO, and user experience  
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-|---|---|---|
-| Bukhara State University | Bachelor | 2023 – Present |
-
-**Bachelor in Computer Science and Programming Technologies**  
+## 🎓 Education 
 *Bukhara State University*
 
 
