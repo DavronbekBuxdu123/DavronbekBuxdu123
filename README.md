@@ -39,6 +39,7 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
   <img src="https://cdn.simpleicons.org/prisma/0C344B?size=32" alt="Prisma" />
   <img src="https://cdn.simpleicons.org/drizzle/09A9A9?size=32" alt="Drizzle" />
   <img src="https://cdn.simpleicons.org/bootstrap/9a4acf?size=32" alt="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/shadcnui/f3f4f6?size=32" alt="shadcnui" />
 
 
 ##  GitHub Stats & Activity
