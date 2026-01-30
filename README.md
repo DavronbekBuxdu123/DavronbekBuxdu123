@@ -10,14 +10,10 @@
 
 </div>
 
----
-
 ## 🚀 About Me
 
 Frontend Developer specializing in **Next.js, React, and Tailwind CSS**.  
 I enjoy building **fast, clean, and user-friendly interfaces** with modern web technologies.
-
----
 
 ## 📚 Learning & Knowledge
 
@@ -25,8 +21,6 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 - React & Next.js for modern frontend development  
 - Tailwind CSS for clean and responsive UI  
 - Improving performance, SEO, and user experience  
-
----
 
 ## 🎓 Education
 
@@ -37,17 +31,11 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 **Bachelor in Computer Science and Programming Technologies**  
 *Bukhara State University*
 
----
-
-
-
----
 
 ## ⚡ Fun Fact
 
 > I enjoy turning designs into **fast and smooth Next.js apps** 🚀
 
----
 ## 🌐 Connect with Me
 
 <div align="center">
@@ -60,12 +48,8 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 </div>
 
-
-
----
-
 ## 🛠️ Skills & Technologies
-<div  ><img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" />
+<div  style="display:flex" ><img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" />
 <img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" />
 <img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js" />
