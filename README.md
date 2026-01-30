@@ -63,10 +63,20 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=radical)
-</div>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DavronbekBuxdu123&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DavronbekBuxdu123&theme=dark&column=7&margin-w=15&margin-h=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavronbekBuxdu123&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=radical&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/0007_Frontend?theme=light)>
 
 
