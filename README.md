@@ -39,11 +39,7 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 ---
 
-## 📞 Contact & Links
 
-- 📫 Email: **davronaslonov01@gmail.com**  
-- 👨‍💻 Portfolio: [https://dava-portfolio-005.vercel.app](https://dava-portfolio-005.vercel.app)  
-- 📝 Telegram Blog: [https://t.me/Davronbek_IT_blog](https://t.me/Davronbek_IT_blog)
 
 ---
 
@@ -56,12 +52,14 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dava-portfolio-005.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DavronbekBuxdu123)
 [![Telegram](https://img.shields.io/badge/Telegram-@Davronbek_IT_blog-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davronbek_IT_blog)
 [![Email](https://img.shields.io/badge/Email-davronaslonov01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davronaslonov01@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+998%20XX%20XXX%20XX%20XX-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998508187720)
+[![Phone](https://img.shields.io/badge/Phone-+998508187720-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998508187720)
 
 </div>
+
 
 
 ---
