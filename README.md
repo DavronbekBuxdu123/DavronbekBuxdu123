@@ -8,8 +8,6 @@
 
 ### Frontend Developer from Bukhara 🇺🇿
 
-<img src="https://github.com/DavronbekBuxdu123.png" alt="Davronbek" width="150" height="150" style="border-radius: 50%;" />
-
 </div>
 
 ---
@@ -54,15 +52,17 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 > I enjoy turning designs into **fast and smooth Next.js apps** 🚀
 
 ---
-
 ## 🌐 Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DavronbekBuxdu123)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/0007_Frontend/)
+[![Telegram](https://img.shields.io/badge/Telegram-@Davronbek_IT_blog-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davronbek_IT_blog)
+[![Email](https://img.shields.io/badge/Email-davronaslonov01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davronaslonov01@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-+998%20XX%20XXX%20XX%20XX-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998508187720)
 
 </div>
+
 
 ---
 
