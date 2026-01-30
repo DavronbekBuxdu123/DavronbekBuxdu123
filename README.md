@@ -25,7 +25,7 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 <img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" /> 
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" />
   <img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" /> 
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js" /> 
+  <img src="https://cdn.simpleicons.org/nextdotjs/6a40ef?size=32" alt="Next.js" /> 
   <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React" /> 
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS" />
   <img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux" />
