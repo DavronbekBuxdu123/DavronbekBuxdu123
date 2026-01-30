@@ -73,6 +73,5 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-//![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/0007_Frontend?theme=light)>
 
 
