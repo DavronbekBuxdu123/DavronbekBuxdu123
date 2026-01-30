@@ -68,47 +68,46 @@ I am currently a student.
 
 ## 🛠️ Skills & Technologies
 
-
-
 ### 💻 Programming Languages
 
 <img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python"  />
 
 ### 💻 Mobile App Development
 
-<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />
+<img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React Native"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/android/3DDC84?size=32" alt="Android"  />
 
 ### 💻 Frontend Development
 
-<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass/CC6699?size=32" alt="Sass"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sass/CC6699?size=32" alt="Sass"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/css3/1572B6?size=32" alt="CSS3"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/bootstrap/7952B3?size=32" alt="Bootstrap"  />
 
 ### 💻 Backend Development
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://cdn.simpleicons.org/nodedotjs/339933?size=32" alt="Node.js"  />
 
 ### 💻 Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;&nbsp;&nbsp;![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+<img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sqlite/003B57?size=32" alt="SQLite"  />
 
 ### 💻 Backend as a Service (BaaS)
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<img src="https://cdn.simpleicons.org/firebase/FFCA28?size=32" alt="Firebase"  />
 
 ### 💻 Framework
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<img src="https://cdn.simpleicons.org/django/092E20?size=32" alt="Django"  />
 
 ### 💻 Software
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;&nbsp;&nbsp;![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman"  />&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma"  />
 
 ### 💻 Static Site Generators
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js"  />
 
 ### 💻 Other
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git"  />
+
 
 ## 📊 GitHub Stats & Activity
 
