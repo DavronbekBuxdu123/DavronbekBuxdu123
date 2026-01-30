@@ -37,16 +37,24 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 > I enjoy turning designs into **fast and smooth Next.js apps** 🚀
 
 ## 🌐 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dava-portfolio-005.vercel.app) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavronbekBuxdu123) 
-[![Telegram](https://img.shields.io/badge/Telegram-@Davronbek_IT_blog-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davronbek_IT_blog) 
-[![Email](https://img.shields.io/badge/Email-davronaslonov01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davronaslonov01@gmail.com) 
-[![Phone](https://img.shields.io/badge/Phone-+998508187720-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+998508187720)
-
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+  <a href="https://dava-portfolio-005.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/DavronbekBuxdu123" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://t.me/Davronbek_IT_blog" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-@Davronbek_IT_blog-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:davronaslonov01@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-davronaslonov01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+998508187720" target="_blank">
+    <img src="https://img.shields.io/badge/Phone-+998508187720-4CAF50?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
 </div>
+
 
 
 ## 🛠️ Skills & Technologies
