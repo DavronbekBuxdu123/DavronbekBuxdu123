@@ -40,13 +40,14 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dava-portfolio-005.vercel.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/DavronbekBuxdu123)
-[![Telegram](https://img.shields.io/badge/Telegram-@Davronbek_IT_blog-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davronbek_IT_blog)
-[![Email](https://img.shields.io/badge/Email-davronaslonov01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davronaslonov01@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+998508187720-34A853?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+998508187720)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dava-portfolio-005.vercel.app) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavronbekBuxdu123) 
+[![Telegram](https://img.shields.io/badge/Telegram-@Davronbek_IT_blog-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davronbek_IT_blog) 
+[![Email](https://img.shields.io/badge/Email-davronaslonov01%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davronaslonov01@gmail.com) 
+[![Phone](https://img.shields.io/badge/Phone-+998508187720-4CAF50?style=for-the-badge&logo=phone&logoColor=white)](tel:+998508187720)
 
 </div>
+
 
 ## 🛠️ Skills & Technologies
 <div  style="display:flex" ><img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" />
@@ -65,8 +66,6 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 <img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma" />
 <img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman" /></div>
 
-
----
 
 ## 📊 GitHub Stats
 
