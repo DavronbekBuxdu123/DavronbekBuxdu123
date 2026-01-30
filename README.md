@@ -17,10 +17,6 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 *Bukhara State University*
 
 
-## ⚡ Fun Fact
-
-> I enjoy turning designs into **fast and smooth Next.js apps** 🚀
-
 ## 🌐 Connect with Me
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
   <a href="https://dava-portfolio-005.vercel.app" target="_blank">
@@ -77,6 +73,6 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
-![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/0007_Frontend?theme=light)>
+//![LeetCode Stats](https://readmecodegen.com/api/leetcode-stats/0007_Frontend?theme=light)>
 
 
