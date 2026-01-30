@@ -4,9 +4,9 @@
 
 <div align="center">
 
-# Hi 👋, I'm [Davronbek]
+# Hi 👋, I'm Davronbek
 
-### A passionate developer from [Bukhara]
+### A passionate developer from Bukhara
 
 <img src="https://github.com/DavronbekBuxdu123.png" alt="[Davronbek]" width="150" height="150" style="border-radius: 50%;" />
 
