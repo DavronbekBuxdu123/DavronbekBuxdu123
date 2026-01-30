@@ -67,8 +67,7 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 ---
 
 ## 🛠️ Skills & Technologies
-
-<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" />
+<div  ><img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" />
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" />
 <img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" />
 <img src="https://cdn.simpleicons.org/nextdotjs/000000?size=32" alt="Next.js" />
@@ -82,7 +81,8 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
 <img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL" />
 <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git" />
 <img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman" />
+<img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman" /></div>
+
 
 ---
 
