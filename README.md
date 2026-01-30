@@ -36,6 +36,9 @@ I enjoy building **fast, clean, and user-friendly interfaces** with modern web t
   <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/prisma/0C344B?size=32" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/drizzle/09A9A9?size=32" alt="Drizzle" />
+  <img src="https://cdn.simpleicons.org/neon/0FF1CE?size=32" alt="NeonDB" />
 
 
 ##  GitHub Stats & Activity
