@@ -26,9 +26,11 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 ## 🌐 Connect with Me
 
 <p align="center">
-  🌐 <a href="https://davron-dev.uz/" target="_blank"><b>Portfolio</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌐 <a href="https://www.davron-dev.uz" target="_blank"><b>Portfolio</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   💼 <a href="https://www.linkedin.com/in/davron-aslonov-fullstack" target="_blank"><b>LinkedIn</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  ✈️ <a href="https://t.me/Aslonov_Davronbek" target="_blank"><b>Telegram</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📢 <a href="https://t.me/Davronbek_IT_blog" target="_blank"><b>Tech Blog</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  💬 <a href="https://t.me/Aslonov_Davronbek" target="_blank"><b>Telegram</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  📸 <a href="https://www.instagram.com/aslonov_davronbek" target="_blank"><b>Instagram</b></a> &nbsp;&nbsp;|&nbsp;&nbsp;
   🟢 <a href="https://upwork.com/freelancers/~01996452c56ea685c0" target="_blank"><b>Upwork</b></a>
 </p>
 
