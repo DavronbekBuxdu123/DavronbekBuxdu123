@@ -1,60 +1,78 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
+  <img src="./banner.png" alt="Davronbek Banner" width="100%" />
 </div>
-<div align="center">
 
+<br />
+
+<div align="center">
+  <h1>Hi there, I'm Davronbek Aslonov 👋</h1>
+  <h3>Fullstack Software Engineer | Web Applications & API Architecture</h3>
+
+  <p align="center">
+    <a href="https://davron-dev.uz/"><b>Portfolio</b></a> •
+    <a href="https://linkedin.com/in/davron-aslonov-fullstack"><b>LinkedIn</b></a> •
+    <a href="https://upwork.com/freelancers/~01996452c56ea685c0"><b>Upwork</b></a> •
+    <a href="https://t.me/Aslonov_Davronbek"><b>Telegram Channel</b></a>
+  </p>
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a passionate **Fullstack Software Engineer** with strong experience in building scalable web applications, RESTful APIs, and modern user interfaces.
+
+* 💡 **Frontend Expertise:** Next.js, React, TypeScript, Tailwind CSS, Redux Toolkit
+* ⚙️ **Backend Expertise:** Python, Django, Django REST Framework, Node.js, REST APIs
+* 🗄️ **Databases & ORM:** PostgreSQL, MongoDB, Prisma, Drizzle ORM
+* 🛠️ **Current Focus:** AI Integration, High-Performance Backend Systems, and Clean Architecture
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
   
-### Hi, I'm Davronbek
+  <br />
+  
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  
+  <br />
 
-### Frontend Developer from Bukhara 🇺🇿
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-</div>
+---
 
-##  About Me
-
-Frontend Developer specializing in **Next.js, React, and Tailwind CSS**.  
-I enjoy building **fast, clean, and user-friendly interfaces** with modern web technologies.
-
-##  Education 
-*Bukhara State University*
-
-
-
-##  Skills & Technologies
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
-<img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" /> 
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" /> 
-  <img src="https://cdn.simpleicons.org/nextdotjs/6a40ef?size=32" alt="Next.js" /> 
-  <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React" /> 
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS" />
-  <img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5" />
-  <img src="https://cdn.simpleicons.org/node.js/339933?size=32" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL" /> 
-  <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman" />
-  <img src="https://cdn.simpleicons.org/prisma/0C344B?size=32" alt="Prisma" />
-  <img src="https://cdn.simpleicons.org/drizzle/09A9A9?size=32" alt="Drizzle" />
-  <img src="https://cdn.simpleicons.org/bootstrap/9a4acf?size=32" alt="Bootstrap" />
-  <img src="https://cdn.simpleicons.org/shadcnui/f3f4f6?size=24" alt="shadcnui" />
-
-
-##  GitHub Stats & Activity
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DavronbekBuxdu123&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=dark&hide=css,html" alt="Top Langs" width="48%" />
+</div>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=DavronbekBuxdu123&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+<br />
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=DavronbekBuxdu123&theme=dark&column=7&margin-w=15&margin-h=15)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DavronbekBuxdu123&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitors" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavronbekBuxdu123&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=radical&langs_count=10)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-
-
+<div align="center">
+  <i>"Building high-performance software with clean code and modern tools."</i>
+</div>
