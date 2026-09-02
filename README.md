@@ -55,12 +55,15 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
   <img src="https://cdn.simpleicons.org/shadcnui/f3f4f6?size=24" alt="shadcnui" />
 </div>
 
-## 🔭 Current Focus
+🎯 Current Focus & Goals
 
-- 🌱 Learning **NestJS**, **RAG Architecture**, and **AI Engineering**
-- 👯 Looking to collaborate on **Open Source** & Fullstack web projects
-- 💬 Ask me about **Next.js**, **Django REST Framework**, or **TypeScript**
-- ⚡ Fun fact: I enjoy solving algorithmic problems and exploring system design patterns
+| Area | Status / Activity |
+| :--- | :--- |
+| ⚡ **Currently Working On** | Scalable Fullstack Web Applications & Telegram Mini Apps |
+| 🚀 **Actively Learning** | **NestJS**, **RAG Architecture**, and **AI Engineering** |
+| 🤝 **Open for** | Open Source Collaborations & Freelance Projects |
+| 💬 **Ask Me About** | **Next.js**, **Django REST Framework**, **TypeScript**, and **PostgreSQL** |
+| ⚡ **Fun Fact** | I love building clean UI/UX and optimizing backend database queries |
 
 ## 📊 GitHub Stats & Activity
 
