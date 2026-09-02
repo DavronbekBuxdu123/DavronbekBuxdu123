@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="./banner.png" alt="Banner" width="100%" />
+  <img src="./banner.png?v=2" alt="Davronbek Banner" width="100%" />
 </div>
 
 <div align="center">
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A40EF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Davronbek+Aslonov+%F0%9F%91%8B;Fullstack+Software+Engineer;Next.js+%26+React+Expert;Python+%26+Django+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
   
+  <br />
+
   <img src="https://img.shields.io/github/followers/DavronbekBuxdu123?style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/DavronbekBuxdu123?style=social" alt="GitHub Stars" />
   <img src="https://img.shields.io/badge/🇺🇿-Bukhara-orange" alt="Location" />
@@ -24,14 +26,17 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 ## 🌐 Connect with Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davronbek-aslonov" target="_blank">
+  <a href="https://davron-dev.uz/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6A40EF?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/davron-aslonov-fullstack" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/davronbek_dev" target="_blank">
+  <a href="https://t.me/Aslonov_Davronbek" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:davronbek.aslonov@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://upwork.com/freelancers/~01996452c56ea685c0" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
 </div>
 
@@ -61,10 +66,10 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 
 ## 🔭 Current Focus
 
-- 🌱 Learning **NestJS** and **GraphQL**
-- 👯 Looking to collaborate on **Open Source** projects
-- 💬 Ask me about **Next.js**, **Django**, or **TypeScript**
-- ⚡ Fun fact: I love playing chess and reading tech blogs
+- 🌱 Learning **NestJS**, **RAG Architecture**, and **AI Engineering**
+- 👯 Looking to collaborate on **Open Source** & Fullstack web projects
+- 💬 Ask me about **Next.js**, **Django REST Framework**, or **TypeScript**
+- ⚡ Fun fact: I enjoy solving algorithmic problems and exploring system design patterns
 
 ## 📊 GitHub Stats & Activity
 
@@ -82,12 +87,8 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
-</div>
+<br />
 
 <div align="center">
-  <a href="https://buymeacoffee.com/davronbek" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
-  </a>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
 </div>
