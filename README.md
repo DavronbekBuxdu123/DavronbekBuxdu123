@@ -74,9 +74,9 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DavronbekBuxdu123&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DavronbekBuxdu123&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=DavronbekBuxdu123&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=radical&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&fire=00D2FE&ring=00D2FE&side_fire=00D2FE&side_ring=00D2FE&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
