@@ -1,52 +1,93 @@
 <div align="center">
+  <img src="./banner.png" alt="Banner" width="100%" />
+</div>
 
-  <img src="./banner.png" alt="Davronbek Aslonov Banner" width="100%" />
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A40EF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Davronbek+Aslonov+%F0%9F%91%8B;Fullstack+Software+Engineer;Next.js+%26+React+Expert;Python+%26+Django+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  
+  <img src="https://img.shields.io/github/followers/DavronbekBuxdu123?style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/DavronbekBuxdu123?style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/🇺🇿-Bukhara-orange" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen" alt="Open to Work" />
+  
+</div>
 
-  <br />
+## 🚀 About Me
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Fullstack+Software+Engineer;Next.js+%7C+React+%7C+TypeScript;Python+%7C+Django+%7C+DRF;Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture" />
+Fullstack Software Engineer specializing in **Next.js, React, TypeScript, Python, Django, DRF, and Node.js**.  
+I enjoy building fast, scalable, and user-friendly web applications with modern architectures and clean APIs.
 
-  <br />
-  <br />
+## 🎓 Education  
+*Bukhara State University*
 
-  <a href="https://davron-dev.uz/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-davron--dev.uz-00BFFF?style=for-the-badge" alt="Portfolio" />
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/davronbek-aslonov" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
-  <a href="https://linkedin.com/in/davron-aslonov-fullstack">
-    <img src="https://img.shields.io/badge/LinkedIn-Davron_Aslonov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://t.me/davronbek_dev" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-
-  <a href="https://upwork.com/freelancers/~01996452c56ea685c0">
-    <img src="https://img.shields.io/badge/Upwork-Hire_Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  <a href="mailto:davronbek.aslonov@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+</div>
 
-  <a href="https://t.me/Aslonov_Davronbek">
-    <img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+## 🛠️ Skills & Technologies
 
-  <br />
-  <br />
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; align-items: center;">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6?size=32" alt="TypeScript" /> 
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E?size=32" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB?size=32" alt="Python" /> 
+  <img src="https://cdn.simpleicons.org/django/092E20?size=32" alt="Django" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/6a40ef?size=32" alt="Next.js" /> 
+  <img src="https://cdn.simpleicons.org/react/61DAFB?size=32" alt="React" /> 
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4?size=32" alt="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/redux/764ABC?size=32" alt="Redux" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26?size=32" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/node.js/339933?size=32" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248?size=32" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1?size=32" alt="PostgreSQL" /> 
+  <img src="https://cdn.simpleicons.org/git/F05032?size=32" alt="Git" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E?size=32" alt="Figma" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37?size=32" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/prisma/0C344B?size=32" alt="Prisma" />
+  <img src="https://cdn.simpleicons.org/drizzle/09A9A9?size=32" alt="Drizzle" />
+  <img src="https://cdn.simpleicons.org/bootstrap/9a4acf?size=32" alt="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/shadcnui/f3f4f6?size=24" alt="shadcnui" />
+</div>
 
-  <img src="https://komarev.com/ghpvc/?username=DavronbekBuxdu123&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+## 🔭 Current Focus
+
+- 🌱 Learning **NestJS** and **GraphQL**
+- 👯 Looking to collaborate on **Open Source** projects
+- 💬 Ask me about **Next.js**, **Django**, or **TypeScript**
+- ⚡ Fun fact: I love playing chess and reading tech blogs
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=DavronbekBuxdu123&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavronbekBuxdu123&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=radical&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavronbekBuxdu123&theme=radical&no-frame=true&row=2&column=4)
 
 </div>
 
----
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF" />
+</div>
 
-# 👋 Hi, I'm Davronbek Aslonov
-
-### Fullstack Software Engineer from Bukhara 🇺🇿
-
-I am a passionate **Fullstack Software Engineer** focused on building fast, scalable, maintainable, and user-friendly web applications.
-
-I enjoy combining modern frontend technologies, reliable backend systems, RESTful APIs, database architecture, and clean code to build production-ready software.
-
-```text
-Frontend       → Next.js • React • TypeScript • Tailwind CSS
-Backend        → Python • Django • Django REST Framework • Node.js
-Databases      → PostgreSQL • MongoDB
-ORM            → Prisma • Drizzle
-Architecture   → REST APIs • Clean Architecture • Scalable Systems
-Tools          → Git • GitHub • Postman • Figma • Docker
-Current Focus  → AI Integration • Backend Engineering • System Design
+<div align="center">
+  <a href="https://buymeacoffee.com/davronbek" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200" />
+  </a>
+</div>
