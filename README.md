@@ -60,7 +60,7 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 | Area | Status / Activity |
 | :--- | :--- |
 | ⚡ **Currently Working On** | Scalable Fullstack Web Applications & Telegram Mini Apps |
-| 🚀 **Actively Learning** | **NestJS**, **RAG Architecture**, and **AI Engineering** |
+| 🚀 **Actively Learning** | **System Design**, **API Architecture**, and **AI Engineering** |
 | 🤝 **Open for** | Open Source Collaborations & Freelance Projects |
 | 💬 **Ask Me About** | **Next.js**, **Django REST Framework**, **TypeScript**, and **PostgreSQL** |
 | ⚡ **Fun Fact** | I love building clean UI/UX and optimizing backend database queries |
