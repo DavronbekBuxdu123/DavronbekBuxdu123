@@ -24,12 +24,11 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 *Bukhara State University*
 
 ## 🌐 Connect with Me
-<div align="center">
-  <a href="https://davron-dev.uz/"><img src="https://img.shields.io/badge/Portfolio-davron--dev.uz-6A40EF?style=for-the-badge&logo=react&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/davronbek-aslonov"><img src="https://img.shields.io/badge/LinkedIn-Davronbek%20Aslonov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://t.me/Aslonov_Davronbek"><img src="https://img.shields.io/badge/Telegram-@Aslonov__Davronbek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://upwork.com/freelancers/~01996452c56ea685c0"><img src="https://img.shields.io/badge/Upwork-Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-</div>
+
+- 🌐 **Portfolio:** [davron-dev.uz](https://davron-dev.uz/)
+- 💼 **LinkedIn:** [davron-aslonov-fullstack](https://www.linkedin.com/in/davron-aslonov-fullstack)
+- ✈️ **Telegram:** [@Aslonov_Davronbek](https://t.me/Aslonov_Davronbek)
+- 🟢 **Upwork:** [Davronbek Aslonov](https://upwork.com/freelancers/~01996452c56ea685c0)
 
 ## 🛠️ Skills & Technologies
 
