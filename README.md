@@ -75,7 +75,7 @@ I enjoy building fast, scalable, and user-friendly web applications with modern 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavronbekBuxdu123&layout=compact&theme=radical&langs_count=10)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&fire=FEB2B2&ring=FFD700&side_fire=FFD700&side_ring=FFD700&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavronbekBuxdu123&theme=dark&fire=00D2FE&ring=00D2FE&side_fire=00D2FE&side_ring=00D2FE&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavronbekBuxdu123&theme=radical&no-frame=true&row=2&column=4)
 
